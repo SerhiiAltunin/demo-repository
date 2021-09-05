@@ -1,3 +1,5 @@
 # demo-repository
 
-new line
+- new line
+- another line
+- last line
